@@ -5,3 +5,4 @@ int main(){
         if(i==5) break;
         cout<<i<<" ";
     }
+}    
