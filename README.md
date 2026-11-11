@@ -1,4 +1,4 @@
-# 🔱 Core Data Structures & Algorithms (C++)
+#  Core Data Structures & Algorithms (C++)
 
 [![Language](https://shields.io)](https://isocpp.org)
 [![Compiler](https://shields.io)](https://gnu.org)
